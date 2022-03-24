@@ -1,0 +1,25 @@
+!spartacussampledata/
+!spartacussampledata/**
+spartacussampledata/**/gensrc
+spartacussampledata/**/target
+spartacussampledata/**/classes
+spartacussampledata/**/testclasses
+spartacussampledata/**/bin
+spartacussampledata/**/eclipsebin
+spartacussampledata/**/.DS_Store
+spartacussampledata/**/beans.xsd
+spartacussampledata/**/extensioninfo.xsd
+spartacussampledata/**/*testclasses.xml
+spartacussampledata/**/items.xsd
+spartacussampledata/**/_ui
+
+##############################
+# ant generated files #
+##############################
+spartacussampledata/**/extensioninfo.xsd
+spartacussampledata/**/hmc.xsd
+spartacussampledata/**/platformhome.properties
+spartacussampledata/**/*-testclasses.xml
+spartacussampledata/**/beans.xsd
+spartacussampledata/**/items.xsd
+spartacussampledata/**/build.xml
